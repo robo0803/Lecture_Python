@@ -6,6 +6,18 @@
 1. [Chapter4.ipynb](Chapter4.ipynb)
 
 
+# Coded Characters
+
+- '가' ---> 0001
+- 'A' ---> 67
+- 
+대표 문자 코드
+ - ASCII
+ - EUC-KR (aka, KSC5601, CP949 )
+ - 유니코드 
+
+
+
 # Memory
 
 스택과 힙
