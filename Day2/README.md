@@ -1,5 +1,10 @@
 # Python Day2
 
+## Chapter2
+
+1. [Chapter2.ipynb](Chapter2.ipynb)
+
+
 # Memory
 
 스택과 힙
