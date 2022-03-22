@@ -1,8 +1,9 @@
 # Python Day2
 
-## Chapter2
+## Chapter
 
-1. [Chapter2.ipynb](Chapter2.ipynb)
+1. [Chapter3.ipynb](Chapter3.ipynb)
+1. [Chapter4.ipynb](Chapter4.ipynb)
 
 
 # Memory
