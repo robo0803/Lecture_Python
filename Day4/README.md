@@ -19,7 +19,16 @@
    - 파이썬 실행 이해
    - `__main__` 이해
 
+실습 파일:
+
+1. [Chapter8.ipynb](Chapter8.ipynb)
+2. [Chapter9.ipynb](Chapter9.ipynb)
+3. [Chapter12.ipynb](Chapter12.ipynb)
+
+
 ### 그룹스터디 숙제
 
  - p295 코드를 분석하시오
  - p297 코드를 분석하시오.
+
+
