@@ -19,6 +19,14 @@
 
 # Day3 
 
+
+실습 노트북 파일
+
+- [Chapter7.ipynb](Chapter7.ipynb)
+- [Chapter6.ipynb](Chapter6.ipynb)
+
+
+
 1. 반복문
    - p113 반복문 시프트연산자 예제
    - 
