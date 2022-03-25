@@ -21,3 +21,7 @@
 1. 윈도우 프로그래밍
 2. 파일 처리
 3. 오후 4시 평가
+
+---
+참고
+ - Tkinter https://076923.github.io/posts/Python-tkinter-10/
