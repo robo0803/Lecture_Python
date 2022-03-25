@@ -19,6 +19,8 @@
 # Day5 진행
 
 1. 윈도우 프로그래밍
+   - [girl.zip](girl.zip)
+   - [jeju.zip](jeju.zip)
 2. 파일 처리
 3. 오후 4시 평가
 
