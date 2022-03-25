@@ -18,3 +18,10 @@
    - Chapter8 : 문자열
    - Chapter9 : 함수와 모듈
    - Chapter12: 클래스
+
+5. [Day5](Day5/README.md)
+   - Chapter10: GUI framework : TK
+   - Chapter11: 파일
+---
+1. github 튜토리얼
+  - https://backlog.com/git-tutorial/kr/
